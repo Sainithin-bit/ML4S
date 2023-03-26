@@ -1,5 +1,7 @@
 # ML4S
+ 
 
+Due to Resource Constraints model is trained only on 1000 images.
 Here is the links for weights.Please make a folder named checkpoint/ and put this files in it.Keep both files in same folder
 
 
