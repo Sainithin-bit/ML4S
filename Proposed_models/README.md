@@ -29,4 +29,4 @@ python Space.py --dataset <path_to_dataset> --train_or_load load --model_name <n
 For `<name-of-model>`, use the name of the `.h5` file stored inside the `models/` folder, excluding `models/`,
 but including the extension `.h5`.
 
-This Repo Ported and modified from original Repo https://github.com/DanielMagro97/LEXACTUM.git
+This Repo Ported and modified from original Repo https://github.com/DanielMagro97/LEXACTUM.git. All credit goes to authors of the repo for making there code open source.
